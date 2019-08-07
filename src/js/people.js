@@ -1,3 +1,3 @@
-let people = [{ name: 'ame' }, { name: 'steve' }];
+let people = [{ name: 'Big Lebowski' }, { name: 'Steve Carrell' }];
 
 module.exports = people;
