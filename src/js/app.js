@@ -1,4 +1,4 @@
-require('./style.css');
+require('../css/style.css');
 
 const people = require('./people.js');
 const $ = require('jquery');
